@@ -81,7 +81,7 @@ public class SaddlePoint {
 				if (isGreatestInRow  && isGreatestInCol) {
 					
 					System.out.printf("%d,%d %n",i+1,j+1); 
-					flagNotFound = false; // found saddle point hence make flag false
+					flagNotFound = false; // found saddle point hence update flagNotFound to false
 				}
 				
 			}
