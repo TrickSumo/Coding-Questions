@@ -28,7 +28,7 @@ Enter height of the castle
 
 import java.util.Scanner;
 
-public class JavaAssignment1 {
+public class HillsAndTheCastle {
 
 	public static void main(String[] args) {
 		int n , p, m, num;
